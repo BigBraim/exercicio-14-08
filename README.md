@@ -33,7 +33,7 @@
 
 ##
 
-```Caso você passe pelo radar acima de 80km/h, você será multado em R$7,00 por cada Km excedido da velocidade permitida```
+```Caso você passe pelo radar acima de 80km/h, você será multado em R$7,00 por cada Km excedido da velocidade permitida ```
 
 ![image](https://github.com/BigBraim/exercicio-14-08/assets/79224234/efa3d96c-746b-40e3-8cb4-d25db1e826a8)
 
